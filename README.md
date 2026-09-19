@@ -39,9 +39,8 @@ At its first start Akramium adds itself to your applications menu, with its icon
 
 ### macOS
 
-Unzip, then move **Akramium** to **Applications**. The app is not notarized by Apple yet, so
-the first time macOS refuses to open it: open **System Settings > Privacy & Security** and click
-**Open Anyway** next to Akramium.
+Unzip, then move **Akramium** to **Applications** and open it. The app is signed with a
+Developer ID and notarized by Apple, so macOS opens it like any other downloaded app.
 
 ## Updates
 
